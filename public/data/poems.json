@@ -1,0 +1,124 @@
+[
+  {
+    "id": "001",
+    "title": "静夜思",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": [
+      {
+        "sentence": "床前明月光，疑是地上霜。",
+        "pinyin": "chuáng qián míng yuè guāng, yí shì dì shàng shuāng.",
+        "annotations": [
+          { "word": "疑", "explanation": "怀疑，感觉像是。" }
+        ]
+      },
+      {
+        "sentence": "举头望明月，低头思故乡。",
+        "pinyin": "jǔ tóu wàng míng yuè, dī tóu sī gù xiāng.",
+        "annotations": [
+          { "word": "故乡", "explanation": "自己的家乡。" }
+        ]
+      }
+    ],
+    "likes": 1024
+  },
+  {
+    "id": "002",
+    "title": "登鹳雀楼",
+    "author": "王之涣",
+    "dynasty": "唐",
+    "content": [
+      {
+        "sentence": "白日依山尽，黄河入海流。",
+        "pinyin": "bái rì yī shān jìn, huáng hé rù hǎi liú.",
+        "annotations": [
+          { "word": "依山尽", "explanation": "沿着山的轮廓消失。" }
+        ]
+      },
+      {
+        "sentence": "欲穷千里目，更上一层楼。",
+        "pinyin": "yù qióng qiān lǐ mù, gèng shàng yī céng lóu.",
+        "annotations": [
+          { "word": "穷", "explanation": "尽，极尽。" },
+          { "word": "千里目", "explanation": "极目远望。" }
+        ]
+      }
+    ],
+    "likes": 856
+  },
+  {
+    "id": "003",
+    "title": "春晓",
+    "author": "孟浩然",
+    "dynasty": "唐",
+    "content": [
+      {
+        "sentence": "春眠不觉晓，处处闻啼鸟。",
+        "pinyin": "chūn mián bù jué xiǎo, chù chù wén tí niǎo.",
+        "annotations": [
+          { "word": "晓", "explanation": "天亮，拂晓。" },
+          { "word": "啼鸟", "explanation": "鸣叫的鸟。" }
+        ]
+      },
+      {
+        "sentence": "夜来风雨声，花落知多少。",
+        "pinyin": "yè lái fēng yǔ shēng, huā luò zhī duō shǎo.",
+        "annotations": [
+          { "word": "夜来", "explanation": "昨天夜里。" }
+        ]
+      }
+    ],
+    "likes": 742
+  },
+  {
+    "id": "004",
+    "title": "相思",
+    "author": "王维",
+    "dynasty": "唐",
+    "content": [
+      {
+        "sentence": "红豆生南国，春来发几枝。",
+        "pinyin": "hóng dòu shēng nán guó, chūn lái fā jǐ zhī.",
+        "annotations": [
+          { "word": "红豆", "explanation": "红色的小豆子，古代常用来象征相思之情。" }
+        ]
+      },
+      {
+        "sentence": "愿君多采撷，此物最相思。",
+        "pinyin": "yuàn jūn duō cǎi xié, cǐ wù zuì xiāng sī.",
+        "annotations": [
+          { "word": "采撷", "explanation": "采摘。" },
+          { "word": "相思", "explanation": "思念。" }
+        ]
+      }
+    ],
+    "likes": 635
+  },
+  {
+    "id": "005",
+    "title": "望庐山瀑布",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": [
+      {
+        "sentence": "日照香炉生紫烟，遥看瀑布挂前川。",
+        "pinyin": "rì zhào xiāng lú shēng zǐ yān, yáo kàn pù bù guà qián chuān.",
+        "annotations": [
+          { "word": "香炉", "explanation": "香炉峰，庐山主峰之一。" },
+          { "word": "紫烟", "explanation": "紫色的烟雾。" },
+          { "word": "前川", "explanation": "山前的河流。" }
+        ]
+      },
+      {
+        "sentence": "飞流直下三千尺，疑是银河落九天。",
+        "pinyin": "fēi liú zhí xià sān qiān chǐ, yí shì yín hé luò jiǔ tiān.",
+        "annotations": [
+          { "word": "飞流", "explanation": "飞泻的水流。" },
+          { "word": "银河", "explanation": "天上的银河。" },
+          { "word": "九天", "explanation": "古人认为天有九重。" }
+        ]
+      }
+    ],
+    "likes": 892
+  }
+]
